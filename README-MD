@@ -1,0 +1,5 @@
+npm init -y
+npm i express@4.19.2
+npm i typescript@5.5.4 @types/node@20.14.12 -D
+npm i --save-dev @types/express@4.17.21
+npm i tsx@4.16.2 -D
